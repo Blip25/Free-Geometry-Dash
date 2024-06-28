@@ -17,7 +17,3 @@ body {
     max-width: 1024px;
     width: 100%;
 }
-
-header, main, footer {
-    margin-bottom: 20px;
-}
