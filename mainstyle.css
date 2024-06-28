@@ -1,12 +1,12 @@
+@font-face{
+  font-family: 'Pusab';
+  src: url(PUSAB.ttf);
+}
+
 body {
     background: linear-gradient(to bottom, #0288D1);
     font-family: Pusab;
     color: white;
-}
-
-@font-face{
-  font-family: 'Pusab';
-  src: url(PUSAB.ttf);
 }
 
 .container {
