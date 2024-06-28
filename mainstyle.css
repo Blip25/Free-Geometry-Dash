@@ -9,8 +9,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
 }
 
 .container {
-  margin: 0 auto;
+  margin:0 auto;
 }
