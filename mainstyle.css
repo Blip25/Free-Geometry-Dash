@@ -1,7 +1,5 @@
 body {
-
     background: linear-gradient(to bottom, #0288D1, #003456);
-
     font-family: Arial, sans-serif;
     color: white;
     margin: 0;
@@ -9,7 +7,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
 }
 
 .container {
