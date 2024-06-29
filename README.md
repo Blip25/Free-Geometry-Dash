@@ -1,5 +1,3 @@
-# A little thing
-I take a part of [RobTopGames website](https://robtopgames.com) code for make this web
 # Buy the game
 If you can buy the game, buy it
 ## Plataforms if you buy it
