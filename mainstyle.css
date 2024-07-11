@@ -1,4 +1,6 @@
 body {
   background-image: url('bg.png');
   text-align: center;
+  padding: 20px;
+  margin: 10px 0;
 }
