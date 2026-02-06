@@ -1,4 +1,18 @@
-body {
+body{
   background-image: url('bg.png');
+  background-repeat: repeat-x;
+  background-size: 140%;
+  color: white;
+  align-items: center;
+  min-height: 50px;
   text-align: center;
+  animation: right 10s linear infinite;
 }
+@-webkit-keyframes right {
+     from {
+        background-position: 45% 0%;
+    }
+    to {
+        background-position: -50% 0%;
+     }
+    }
